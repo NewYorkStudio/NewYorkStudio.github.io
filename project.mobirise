@@ -34,13 +34,15 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 11,
     "versionPublish": "4.8.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/1794-oooo.plus-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Welcome Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
